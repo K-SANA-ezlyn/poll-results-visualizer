@@ -1,0 +1,1001 @@
+Respondent_ID,Date,Question,Selected_Option,Region,Age_Group,Gender,Occupation
+1,2026-02-21,Preferred Smartphone Brand,Xiaomi,East,46+,Male,Student
+2,2026-03-24,Preferred Smartphone Brand,Apple,East,46+,Male,Other
+3,2026-01-24,Preferred Smartphone Brand,OnePlus,North,26-35,Female,Other
+4,2026-01-30,Preferred Smartphone Brand,Apple,West,46+,Male,Student
+5,2026-03-17,Preferred Smartphone Brand,Samsung,North,46+,Male,Student
+6,2026-02-28,Preferred Smartphone Brand,Samsung,West,46+,Female,Other
+7,2026-01-15,Preferred Smartphone Brand,Samsung,East,26-35,Male,Other
+8,2026-02-24,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Business
+9,2026-01-07,Preferred Smartphone Brand,Apple,East,26-35,Female,Student
+10,2026-03-01,Preferred Smartphone Brand,Samsung,South,18-25,Female,Student
+11,2026-01-02,Preferred Smartphone Brand,OnePlus,East,46+,Male,Other
+12,2026-01-08,Preferred Smartphone Brand,Apple,South,18-25,Female,Working Professional
+13,2026-01-04,Preferred Smartphone Brand,Apple,South,26-35,Female,Other
+14,2026-02-23,Preferred Smartphone Brand,Apple,South,26-35,Female,Working Professional
+15,2026-03-15,Preferred Smartphone Brand,Xiaomi,South,36-45,Female,Business
+16,2026-03-13,Preferred Smartphone Brand,Samsung,West,18-25,Female,Other
+17,2026-03-26,Preferred Smartphone Brand,Samsung,South,36-45,Male,Other
+18,2026-01-26,Preferred Smartphone Brand,Xiaomi,West,46+,Male,Student
+19,2026-01-29,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Student
+20,2026-03-29,Preferred Smartphone Brand,Samsung,West,46+,Male,Business
+21,2026-03-22,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Student
+22,2026-02-10,Preferred Smartphone Brand,Xiaomi,North,46+,Female,Working Professional
+23,2026-02-02,Preferred Smartphone Brand,Apple,East,26-35,Female,Student
+24,2026-02-13,Preferred Smartphone Brand,Samsung,East,36-45,Male,Business
+25,2026-02-16,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Business
+26,2026-01-14,Preferred Smartphone Brand,Samsung,North,36-45,Male,Working Professional
+27,2026-02-11,Preferred Smartphone Brand,Samsung,East,36-45,Female,Business
+28,2026-02-21,Preferred Smartphone Brand,Samsung,West,26-35,Male,Business
+29,2026-01-15,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Business
+30,2026-02-28,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Student
+31,2026-03-03,Preferred Smartphone Brand,Samsung,South,46+,Female,Other
+32,2026-02-13,Preferred Smartphone Brand,Samsung,South,36-45,Female,Working Professional
+33,2026-03-30,Preferred Smartphone Brand,Apple,North,18-25,Male,Business
+34,2026-03-03,Preferred Smartphone Brand,Apple,North,18-25,Male,Business
+35,2026-03-11,Preferred Smartphone Brand,Samsung,North,26-35,Male,Student
+36,2026-02-20,Preferred Smartphone Brand,Apple,West,36-45,Male,Working Professional
+37,2026-02-01,Preferred Smartphone Brand,Samsung,North,46+,Male,Working Professional
+38,2026-02-27,Preferred Smartphone Brand,Xiaomi,South,36-45,Female,Business
+39,2026-02-25,Preferred Smartphone Brand,Apple,North,26-35,Female,Other
+40,2026-02-23,Preferred Smartphone Brand,Apple,West,18-25,Male,Business
+41,2026-01-02,Preferred Smartphone Brand,Samsung,South,46+,Female,Other
+42,2026-03-09,Preferred Smartphone Brand,Apple,West,36-45,Male,Business
+43,2026-02-07,Preferred Smartphone Brand,Samsung,West,26-35,Female,Working Professional
+44,2026-01-11,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Other
+45,2026-02-28,Preferred Smartphone Brand,Apple,North,36-45,Female,Other
+46,2026-02-28,Preferred Smartphone Brand,Apple,South,36-45,Male,Business
+47,2026-01-20,Preferred Smartphone Brand,Samsung,West,18-25,Male,Other
+48,2026-02-08,Preferred Smartphone Brand,Xiaomi,North,36-45,Female,Student
+49,2026-03-30,Preferred Smartphone Brand,Apple,East,26-35,Female,Business
+50,2026-01-07,Preferred Smartphone Brand,OnePlus,South,46+,Male,Other
+51,2026-03-01,Preferred Smartphone Brand,Apple,North,46+,Female,Other
+52,2026-03-10,Preferred Smartphone Brand,Xiaomi,East,36-45,Male,Student
+53,2026-01-19,Preferred Smartphone Brand,OnePlus,East,46+,Female,Working Professional
+54,2026-02-02,Preferred Smartphone Brand,Samsung,East,18-25,Female,Other
+55,2026-02-07,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Working Professional
+56,2026-03-30,Preferred Smartphone Brand,OnePlus,North,26-35,Female,Working Professional
+57,2026-03-23,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+58,2026-02-02,Preferred Smartphone Brand,Apple,South,18-25,Female,Other
+59,2026-01-08,Preferred Smartphone Brand,OnePlus,North,46+,Male,Other
+60,2026-03-17,Preferred Smartphone Brand,Samsung,South,36-45,Female,Working Professional
+61,2026-01-30,Preferred Smartphone Brand,Xiaomi,North,36-45,Female,Other
+62,2026-01-27,Preferred Smartphone Brand,Samsung,North,26-35,Male,Other
+63,2026-03-05,Preferred Smartphone Brand,Xiaomi,West,18-25,Female,Business
+64,2026-01-04,Preferred Smartphone Brand,Apple,North,46+,Male,Other
+65,2026-01-30,Preferred Smartphone Brand,Xiaomi,North,26-35,Male,Other
+66,2026-02-06,Preferred Smartphone Brand,Xiaomi,North,26-35,Male,Business
+67,2026-03-01,Preferred Smartphone Brand,Xiaomi,East,18-25,Male,Other
+68,2026-03-28,Preferred Smartphone Brand,Apple,East,46+,Female,Student
+69,2026-02-23,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Working Professional
+70,2026-02-01,Preferred Smartphone Brand,OnePlus,East,26-35,Male,Business
+71,2026-01-02,Preferred Smartphone Brand,Apple,West,18-25,Male,Business
+72,2026-02-17,Preferred Smartphone Brand,Samsung,South,36-45,Female,Business
+73,2026-02-19,Preferred Smartphone Brand,Xiaomi,North,46+,Female,Business
+74,2026-02-26,Preferred Smartphone Brand,Samsung,West,18-25,Female,Other
+75,2026-01-16,Preferred Smartphone Brand,Apple,East,36-45,Male,Other
+76,2026-03-07,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+77,2026-02-27,Preferred Smartphone Brand,Samsung,North,26-35,Female,Working Professional
+78,2026-03-27,Preferred Smartphone Brand,Apple,South,26-35,Male,Working Professional
+79,2026-03-01,Preferred Smartphone Brand,Apple,West,18-25,Female,Other
+80,2026-01-05,Preferred Smartphone Brand,Samsung,South,18-25,Female,Other
+81,2026-02-16,Preferred Smartphone Brand,OnePlus,West,46+,Female,Student
+82,2026-01-30,Preferred Smartphone Brand,Apple,West,36-45,Male,Other
+83,2026-02-27,Preferred Smartphone Brand,Apple,North,26-35,Male,Working Professional
+84,2026-01-23,Preferred Smartphone Brand,Samsung,West,18-25,Male,Working Professional
+85,2026-01-01,Preferred Smartphone Brand,Samsung,West,26-35,Female,Other
+86,2026-03-30,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Student
+87,2026-03-05,Preferred Smartphone Brand,Samsung,South,18-25,Male,Business
+88,2026-03-17,Preferred Smartphone Brand,Samsung,East,18-25,Female,Student
+89,2026-01-29,Preferred Smartphone Brand,Apple,North,36-45,Male,Working Professional
+90,2026-03-03,Preferred Smartphone Brand,OnePlus,West,46+,Female,Working Professional
+91,2026-02-17,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Working Professional
+92,2026-01-23,Preferred Smartphone Brand,Apple,South,18-25,Female,Working Professional
+93,2026-02-21,Preferred Smartphone Brand,Samsung,South,36-45,Female,Other
+94,2026-01-01,Preferred Smartphone Brand,Samsung,North,46+,Female,Other
+95,2026-03-21,Preferred Smartphone Brand,Samsung,North,46+,Female,Other
+96,2026-03-25,Preferred Smartphone Brand,Samsung,South,36-45,Female,Student
+97,2026-02-02,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Business
+98,2026-03-06,Preferred Smartphone Brand,Xiaomi,South,36-45,Female,Student
+99,2026-01-13,Preferred Smartphone Brand,Apple,South,26-35,Male,Business
+100,2026-02-04,Preferred Smartphone Brand,Apple,South,46+,Male,Working Professional
+101,2026-03-15,Preferred Smartphone Brand,Apple,South,36-45,Male,Business
+102,2026-03-09,Preferred Smartphone Brand,OnePlus,South,18-25,Male,Student
+103,2026-02-05,Preferred Smartphone Brand,Samsung,North,18-25,Female,Working Professional
+104,2026-03-14,Preferred Smartphone Brand,Samsung,East,18-25,Male,Other
+105,2026-02-05,Preferred Smartphone Brand,Samsung,East,46+,Female,Business
+106,2026-03-03,Preferred Smartphone Brand,Samsung,West,18-25,Male,Student
+107,2026-01-23,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Student
+108,2026-03-03,Preferred Smartphone Brand,Samsung,North,26-35,Male,Business
+109,2026-01-19,Preferred Smartphone Brand,Samsung,West,18-25,Male,Business
+110,2026-03-17,Preferred Smartphone Brand,Samsung,West,26-35,Male,Other
+111,2026-02-21,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+112,2026-01-12,Preferred Smartphone Brand,Apple,East,18-25,Female,Student
+113,2026-01-23,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Working Professional
+114,2026-02-27,Preferred Smartphone Brand,Apple,East,26-35,Male,Business
+115,2026-03-28,Preferred Smartphone Brand,Samsung,East,26-35,Male,Other
+116,2026-01-09,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Working Professional
+117,2026-01-07,Preferred Smartphone Brand,Samsung,West,26-35,Male,Working Professional
+118,2026-01-27,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Working Professional
+119,2026-03-24,Preferred Smartphone Brand,Samsung,North,18-25,Female,Other
+120,2026-01-17,Preferred Smartphone Brand,Xiaomi,North,18-25,Female,Other
+121,2026-03-11,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Working Professional
+122,2026-02-08,Preferred Smartphone Brand,Samsung,South,36-45,Male,Working Professional
+123,2026-03-08,Preferred Smartphone Brand,Apple,South,46+,Female,Working Professional
+124,2026-01-20,Preferred Smartphone Brand,Apple,North,36-45,Male,Business
+125,2026-01-01,Preferred Smartphone Brand,OnePlus,West,26-35,Male,Business
+126,2026-01-25,Preferred Smartphone Brand,Xiaomi,South,18-25,Female,Working Professional
+127,2026-02-13,Preferred Smartphone Brand,Xiaomi,North,18-25,Male,Student
+128,2026-03-21,Preferred Smartphone Brand,Samsung,East,46+,Male,Other
+129,2026-01-19,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Student
+130,2026-01-14,Preferred Smartphone Brand,Apple,North,18-25,Female,Working Professional
+131,2026-01-03,Preferred Smartphone Brand,Xiaomi,North,36-45,Female,Working Professional
+132,2026-01-16,Preferred Smartphone Brand,Xiaomi,West,46+,Female,Student
+133,2026-01-08,Preferred Smartphone Brand,Apple,West,26-35,Female,Working Professional
+134,2026-03-01,Preferred Smartphone Brand,Samsung,West,18-25,Male,Other
+135,2026-03-05,Preferred Smartphone Brand,Samsung,East,18-25,Male,Student
+136,2026-03-25,Preferred Smartphone Brand,Samsung,West,18-25,Male,Working Professional
+137,2026-02-04,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Student
+138,2026-02-16,Preferred Smartphone Brand,Xiaomi,South,46+,Female,Working Professional
+139,2026-01-05,Preferred Smartphone Brand,Apple,North,26-35,Male,Working Professional
+140,2026-02-18,Preferred Smartphone Brand,Samsung,South,36-45,Male,Working Professional
+141,2026-02-28,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Student
+142,2026-01-01,Preferred Smartphone Brand,Apple,East,26-35,Female,Student
+143,2026-03-10,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Business
+144,2026-02-22,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Student
+145,2026-03-19,Preferred Smartphone Brand,Apple,North,36-45,Male,Student
+146,2026-01-04,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+147,2026-03-13,Preferred Smartphone Brand,Apple,South,26-35,Female,Working Professional
+148,2026-01-03,Preferred Smartphone Brand,Samsung,West,18-25,Female,Other
+149,2026-01-05,Preferred Smartphone Brand,Apple,East,18-25,Male,Other
+150,2026-02-16,Preferred Smartphone Brand,Samsung,North,18-25,Female,Working Professional
+151,2026-03-16,Preferred Smartphone Brand,Apple,South,46+,Female,Working Professional
+152,2026-02-07,Preferred Smartphone Brand,Samsung,South,26-35,Male,Business
+153,2026-02-20,Preferred Smartphone Brand,Xiaomi,West,18-25,Female,Student
+154,2026-03-29,Preferred Smartphone Brand,Xiaomi,South,36-45,Female,Business
+155,2026-03-22,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Student
+156,2026-03-15,Preferred Smartphone Brand,OnePlus,West,46+,Male,Working Professional
+157,2026-01-06,Preferred Smartphone Brand,Samsung,North,26-35,Male,Business
+158,2026-03-16,Preferred Smartphone Brand,Apple,North,36-45,Male,Other
+159,2026-03-16,Preferred Smartphone Brand,Apple,West,46+,Female,Other
+160,2026-02-25,Preferred Smartphone Brand,Samsung,West,36-45,Male,Student
+161,2026-02-01,Preferred Smartphone Brand,Apple,South,36-45,Male,Student
+162,2026-01-05,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+163,2026-03-11,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+164,2026-02-03,Preferred Smartphone Brand,Apple,South,18-25,Male,Student
+165,2026-01-26,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Other
+166,2026-03-04,Preferred Smartphone Brand,Samsung,North,26-35,Female,Student
+167,2026-01-08,Preferred Smartphone Brand,OnePlus,North,46+,Male,Business
+168,2026-02-25,Preferred Smartphone Brand,Samsung,South,46+,Male,Working Professional
+169,2026-03-29,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Other
+170,2026-01-07,Preferred Smartphone Brand,OnePlus,East,26-35,Male,Business
+171,2026-01-18,Preferred Smartphone Brand,Samsung,East,36-45,Male,Other
+172,2026-03-30,Preferred Smartphone Brand,OnePlus,West,26-35,Male,Student
+173,2026-01-17,Preferred Smartphone Brand,Apple,South,26-35,Female,Student
+174,2026-01-17,Preferred Smartphone Brand,Apple,North,46+,Female,Business
+175,2026-01-18,Preferred Smartphone Brand,Apple,East,26-35,Female,Business
+176,2026-01-08,Preferred Smartphone Brand,Samsung,West,36-45,Female,Student
+177,2026-01-06,Preferred Smartphone Brand,Xiaomi,West,26-35,Male,Other
+178,2026-02-28,Preferred Smartphone Brand,Xiaomi,North,18-25,Male,Student
+179,2026-01-22,Preferred Smartphone Brand,Apple,South,36-45,Female,Other
+180,2026-03-16,Preferred Smartphone Brand,Apple,South,36-45,Female,Business
+181,2026-01-09,Preferred Smartphone Brand,Apple,East,36-45,Female,Student
+182,2026-02-05,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Other
+183,2026-03-16,Preferred Smartphone Brand,Xiaomi,South,26-35,Male,Working Professional
+184,2026-02-20,Preferred Smartphone Brand,OnePlus,South,36-45,Male,Other
+185,2026-01-26,Preferred Smartphone Brand,Apple,West,18-25,Female,Working Professional
+186,2026-03-09,Preferred Smartphone Brand,Samsung,North,46+,Male,Other
+187,2026-02-16,Preferred Smartphone Brand,OnePlus,South,46+,Female,Student
+188,2026-01-11,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Student
+189,2026-01-06,Preferred Smartphone Brand,Apple,South,18-25,Male,Working Professional
+190,2026-02-13,Preferred Smartphone Brand,Apple,West,26-35,Female,Student
+191,2026-03-04,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Business
+192,2026-01-24,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+193,2026-03-10,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Student
+194,2026-03-16,Preferred Smartphone Brand,Xiaomi,West,36-45,Male,Student
+195,2026-02-09,Preferred Smartphone Brand,OnePlus,West,46+,Male,Other
+196,2026-01-11,Preferred Smartphone Brand,OnePlus,South,46+,Female,Business
+197,2026-03-26,Preferred Smartphone Brand,Apple,East,36-45,Female,Working Professional
+198,2026-03-03,Preferred Smartphone Brand,Samsung,North,26-35,Male,Working Professional
+199,2026-02-09,Preferred Smartphone Brand,Samsung,West,26-35,Female,Business
+200,2026-02-07,Preferred Smartphone Brand,Samsung,East,36-45,Male,Student
+201,2026-01-17,Preferred Smartphone Brand,Xiaomi,East,26-35,Female,Student
+202,2026-02-20,Preferred Smartphone Brand,Samsung,South,26-35,Male,Business
+203,2026-02-20,Preferred Smartphone Brand,Apple,West,46+,Male,Business
+204,2026-01-29,Preferred Smartphone Brand,Samsung,South,36-45,Male,Other
+205,2026-01-29,Preferred Smartphone Brand,Apple,North,18-25,Male,Business
+206,2026-02-24,Preferred Smartphone Brand,Apple,West,26-35,Female,Working Professional
+207,2026-01-05,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Student
+208,2026-01-31,Preferred Smartphone Brand,Samsung,North,46+,Female,Other
+209,2026-01-15,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Other
+210,2026-03-17,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Business
+211,2026-02-05,Preferred Smartphone Brand,Samsung,East,36-45,Male,Other
+212,2026-01-11,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Other
+213,2026-01-23,Preferred Smartphone Brand,Samsung,South,36-45,Female,Working Professional
+214,2026-01-13,Preferred Smartphone Brand,Apple,South,18-25,Male,Business
+215,2026-03-01,Preferred Smartphone Brand,Samsung,West,46+,Female,Other
+216,2026-01-05,Preferred Smartphone Brand,Xiaomi,West,36-45,Female,Student
+217,2026-01-31,Preferred Smartphone Brand,Samsung,South,36-45,Male,Working Professional
+218,2026-02-09,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Working Professional
+219,2026-01-21,Preferred Smartphone Brand,Apple,West,26-35,Male,Student
+220,2026-01-01,Preferred Smartphone Brand,Xiaomi,East,36-45,Female,Business
+221,2026-01-21,Preferred Smartphone Brand,Samsung,North,18-25,Female,Other
+222,2026-02-26,Preferred Smartphone Brand,Apple,North,36-45,Male,Other
+223,2026-01-25,Preferred Smartphone Brand,Xiaomi,South,26-35,Male,Working Professional
+224,2026-02-03,Preferred Smartphone Brand,Xiaomi,West,36-45,Male,Other
+225,2026-02-20,Preferred Smartphone Brand,Apple,North,36-45,Female,Working Professional
+226,2026-03-29,Preferred Smartphone Brand,Apple,North,36-45,Male,Working Professional
+227,2026-01-26,Preferred Smartphone Brand,Apple,North,18-25,Male,Student
+228,2026-03-25,Preferred Smartphone Brand,Samsung,West,26-35,Female,Other
+229,2026-03-04,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Other
+230,2026-01-13,Preferred Smartphone Brand,Samsung,East,36-45,Female,Business
+231,2026-03-03,Preferred Smartphone Brand,Apple,North,18-25,Male,Student
+232,2026-01-30,Preferred Smartphone Brand,OnePlus,East,26-35,Male,Working Professional
+233,2026-02-16,Preferred Smartphone Brand,Samsung,South,46+,Male,Working Professional
+234,2026-02-07,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Student
+235,2026-02-24,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Business
+236,2026-02-03,Preferred Smartphone Brand,Samsung,East,36-45,Female,Other
+237,2026-02-19,Preferred Smartphone Brand,Xiaomi,West,18-25,Male,Business
+238,2026-03-08,Preferred Smartphone Brand,Apple,East,36-45,Male,Other
+239,2026-02-23,Preferred Smartphone Brand,Apple,North,36-45,Male,Student
+240,2026-01-08,Preferred Smartphone Brand,Apple,West,46+,Female,Other
+241,2026-02-15,Preferred Smartphone Brand,OnePlus,West,46+,Male,Working Professional
+242,2026-03-26,Preferred Smartphone Brand,Samsung,East,46+,Female,Business
+243,2026-03-15,Preferred Smartphone Brand,Apple,East,18-25,Male,Other
+244,2026-01-19,Preferred Smartphone Brand,Samsung,West,26-35,Female,Student
+245,2026-02-16,Preferred Smartphone Brand,Samsung,East,26-35,Male,Working Professional
+246,2026-03-08,Preferred Smartphone Brand,Samsung,West,46+,Male,Student
+247,2026-02-07,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Other
+248,2026-03-27,Preferred Smartphone Brand,OnePlus,North,26-35,Female,Other
+249,2026-02-28,Preferred Smartphone Brand,Xiaomi,West,46+,Male,Working Professional
+250,2026-03-22,Preferred Smartphone Brand,Apple,West,26-35,Male,Student
+251,2026-03-14,Preferred Smartphone Brand,Apple,East,26-35,Female,Working Professional
+252,2026-02-27,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Business
+253,2026-03-11,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Student
+254,2026-02-07,Preferred Smartphone Brand,Apple,North,18-25,Female,Working Professional
+255,2026-03-17,Preferred Smartphone Brand,Apple,South,26-35,Male,Business
+256,2026-02-26,Preferred Smartphone Brand,Apple,East,46+,Female,Other
+257,2026-02-22,Preferred Smartphone Brand,Apple,North,18-25,Female,Student
+258,2026-03-03,Preferred Smartphone Brand,Samsung,West,26-35,Female,Working Professional
+259,2026-03-06,Preferred Smartphone Brand,Apple,West,36-45,Female,Student
+260,2026-01-21,Preferred Smartphone Brand,OnePlus,East,46+,Female,Student
+261,2026-02-28,Preferred Smartphone Brand,Apple,East,26-35,Female,Business
+262,2026-01-24,Preferred Smartphone Brand,Xiaomi,North,46+,Male,Working Professional
+263,2026-02-05,Preferred Smartphone Brand,Samsung,East,36-45,Female,Business
+264,2026-03-22,Preferred Smartphone Brand,Samsung,North,36-45,Female,Student
+265,2026-01-26,Preferred Smartphone Brand,Samsung,North,18-25,Female,Student
+266,2026-01-01,Preferred Smartphone Brand,Samsung,East,46+,Female,Student
+267,2026-02-08,Preferred Smartphone Brand,Apple,South,18-25,Female,Other
+268,2026-02-20,Preferred Smartphone Brand,Apple,South,46+,Male,Student
+269,2026-02-13,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Working Professional
+270,2026-02-26,Preferred Smartphone Brand,Samsung,East,46+,Female,Other
+271,2026-03-29,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Business
+272,2026-03-21,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Other
+273,2026-01-15,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Business
+274,2026-02-01,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Working Professional
+275,2026-03-26,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+276,2026-01-07,Preferred Smartphone Brand,Apple,West,46+,Female,Business
+277,2026-03-28,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Business
+278,2026-01-18,Preferred Smartphone Brand,Samsung,East,18-25,Female,Business
+279,2026-01-24,Preferred Smartphone Brand,Apple,West,18-25,Female,Business
+280,2026-02-06,Preferred Smartphone Brand,Samsung,South,36-45,Male,Other
+281,2026-02-08,Preferred Smartphone Brand,Apple,North,46+,Male,Working Professional
+282,2026-01-25,Preferred Smartphone Brand,OnePlus,North,46+,Male,Working Professional
+283,2026-03-07,Preferred Smartphone Brand,Apple,South,26-35,Female,Business
+284,2026-01-13,Preferred Smartphone Brand,Samsung,West,46+,Male,Business
+285,2026-02-08,Preferred Smartphone Brand,Apple,North,26-35,Male,Student
+286,2026-03-03,Preferred Smartphone Brand,Samsung,North,46+,Female,Other
+287,2026-01-10,Preferred Smartphone Brand,Apple,East,36-45,Female,Student
+288,2026-03-06,Preferred Smartphone Brand,Apple,East,18-25,Female,Other
+289,2026-01-30,Preferred Smartphone Brand,Xiaomi,South,26-35,Male,Student
+290,2026-02-17,Preferred Smartphone Brand,Apple,South,36-45,Male,Business
+291,2026-02-18,Preferred Smartphone Brand,Samsung,West,46+,Male,Working Professional
+292,2026-02-06,Preferred Smartphone Brand,OnePlus,East,46+,Female,Business
+293,2026-02-25,Preferred Smartphone Brand,Xiaomi,West,36-45,Female,Student
+294,2026-01-25,Preferred Smartphone Brand,OnePlus,West,36-45,Female,Other
+295,2026-03-04,Preferred Smartphone Brand,Apple,East,18-25,Female,Working Professional
+296,2026-02-26,Preferred Smartphone Brand,Apple,North,26-35,Male,Other
+297,2026-01-06,Preferred Smartphone Brand,OnePlus,South,36-45,Male,Student
+298,2026-01-09,Preferred Smartphone Brand,Xiaomi,South,18-25,Male,Business
+299,2026-02-04,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Business
+300,2026-02-01,Preferred Smartphone Brand,Samsung,North,46+,Male,Business
+301,2026-03-30,Preferred Smartphone Brand,Samsung,South,18-25,Female,Business
+302,2026-02-25,Preferred Smartphone Brand,Apple,West,18-25,Male,Business
+303,2026-01-25,Preferred Smartphone Brand,Xiaomi,South,18-25,Male,Other
+304,2026-01-25,Preferred Smartphone Brand,Samsung,East,26-35,Female,Other
+305,2026-03-20,Preferred Smartphone Brand,Apple,East,18-25,Female,Working Professional
+306,2026-01-18,Preferred Smartphone Brand,Apple,West,46+,Male,Other
+307,2026-03-10,Preferred Smartphone Brand,Xiaomi,South,46+,Male,Other
+308,2026-03-03,Preferred Smartphone Brand,Samsung,South,36-45,Female,Other
+309,2026-02-09,Preferred Smartphone Brand,Samsung,North,18-25,Female,Other
+310,2026-01-19,Preferred Smartphone Brand,Xiaomi,West,18-25,Male,Business
+311,2026-02-17,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Student
+312,2026-02-11,Preferred Smartphone Brand,Apple,East,26-35,Female,Business
+313,2026-01-05,Preferred Smartphone Brand,Xiaomi,South,18-25,Male,Business
+314,2026-01-23,Preferred Smartphone Brand,Apple,West,36-45,Male,Working Professional
+315,2026-02-08,Preferred Smartphone Brand,Apple,West,26-35,Female,Student
+316,2026-01-12,Preferred Smartphone Brand,Apple,West,18-25,Female,Business
+317,2026-01-17,Preferred Smartphone Brand,Apple,South,46+,Female,Other
+318,2026-02-04,Preferred Smartphone Brand,Apple,East,26-35,Male,Working Professional
+319,2026-03-04,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+320,2026-01-22,Preferred Smartphone Brand,Xiaomi,West,46+,Female,Other
+321,2026-03-05,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Working Professional
+322,2026-03-06,Preferred Smartphone Brand,Apple,West,36-45,Female,Working Professional
+323,2026-01-14,Preferred Smartphone Brand,Xiaomi,North,46+,Female,Business
+324,2026-02-21,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Student
+325,2026-01-06,Preferred Smartphone Brand,Samsung,West,36-45,Male,Working Professional
+326,2026-03-28,Preferred Smartphone Brand,Samsung,South,26-35,Male,Other
+327,2026-03-22,Preferred Smartphone Brand,Apple,North,36-45,Male,Business
+328,2026-01-29,Preferred Smartphone Brand,OnePlus,West,46+,Female,Business
+329,2026-03-19,Preferred Smartphone Brand,Apple,East,36-45,Male,Student
+330,2026-02-25,Preferred Smartphone Brand,Samsung,North,36-45,Female,Student
+331,2026-02-28,Preferred Smartphone Brand,Xiaomi,East,18-25,Male,Business
+332,2026-01-01,Preferred Smartphone Brand,Apple,South,36-45,Female,Student
+333,2026-02-04,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+334,2026-01-15,Preferred Smartphone Brand,Samsung,East,46+,Female,Working Professional
+335,2026-03-30,Preferred Smartphone Brand,Xiaomi,North,46+,Male,Business
+336,2026-02-15,Preferred Smartphone Brand,Samsung,East,36-45,Male,Other
+337,2026-02-13,Preferred Smartphone Brand,Apple,West,26-35,Male,Other
+338,2026-02-15,Preferred Smartphone Brand,Samsung,South,26-35,Male,Student
+339,2026-03-25,Preferred Smartphone Brand,Samsung,South,46+,Male,Other
+340,2026-03-04,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Other
+341,2026-03-13,Preferred Smartphone Brand,Apple,North,18-25,Female,Student
+342,2026-01-18,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Business
+343,2026-02-07,Preferred Smartphone Brand,Apple,North,18-25,Male,Other
+344,2026-02-10,Preferred Smartphone Brand,Apple,South,36-45,Female,Student
+345,2026-01-17,Preferred Smartphone Brand,Apple,South,46+,Male,Other
+346,2026-02-23,Preferred Smartphone Brand,Samsung,West,18-25,Female,Other
+347,2026-02-01,Preferred Smartphone Brand,Xiaomi,North,26-35,Male,Student
+348,2026-03-18,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+349,2026-03-07,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Working Professional
+350,2026-01-15,Preferred Smartphone Brand,Apple,East,46+,Male,Other
+351,2026-03-16,Preferred Smartphone Brand,Apple,East,26-35,Male,Working Professional
+352,2026-03-14,Preferred Smartphone Brand,Apple,West,18-25,Female,Other
+353,2026-01-08,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Working Professional
+354,2026-01-07,Preferred Smartphone Brand,OnePlus,West,46+,Female,Working Professional
+355,2026-01-22,Preferred Smartphone Brand,Samsung,East,36-45,Male,Other
+356,2026-01-14,Preferred Smartphone Brand,Apple,South,46+,Male,Other
+357,2026-01-13,Preferred Smartphone Brand,Samsung,East,26-35,Male,Business
+358,2026-02-14,Preferred Smartphone Brand,Apple,East,18-25,Male,Other
+359,2026-02-20,Preferred Smartphone Brand,Apple,South,26-35,Male,Working Professional
+360,2026-02-06,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Other
+361,2026-03-15,Preferred Smartphone Brand,Samsung,North,18-25,Female,Business
+362,2026-03-20,Preferred Smartphone Brand,Apple,West,18-25,Female,Student
+363,2026-01-31,Preferred Smartphone Brand,Samsung,West,46+,Male,Other
+364,2026-01-20,Preferred Smartphone Brand,Samsung,South,18-25,Male,Other
+365,2026-02-05,Preferred Smartphone Brand,Apple,South,46+,Female,Working Professional
+366,2026-03-20,Preferred Smartphone Brand,Xiaomi,South,36-45,Female,Business
+367,2026-02-27,Preferred Smartphone Brand,Xiaomi,West,36-45,Male,Working Professional
+368,2026-02-09,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Other
+369,2026-03-28,Preferred Smartphone Brand,Samsung,South,26-35,Female,Business
+370,2026-02-06,Preferred Smartphone Brand,Xiaomi,North,18-25,Female,Working Professional
+371,2026-03-01,Preferred Smartphone Brand,Samsung,South,46+,Male,Student
+372,2026-03-25,Preferred Smartphone Brand,Samsung,South,18-25,Male,Student
+373,2026-01-28,Preferred Smartphone Brand,Apple,North,18-25,Male,Student
+374,2026-02-09,Preferred Smartphone Brand,Samsung,West,18-25,Male,Business
+375,2026-01-31,Preferred Smartphone Brand,Apple,East,26-35,Female,Other
+376,2026-03-15,Preferred Smartphone Brand,Samsung,West,26-35,Male,Student
+377,2026-01-05,Preferred Smartphone Brand,Apple,East,46+,Male,Student
+378,2026-03-05,Preferred Smartphone Brand,Samsung,West,18-25,Male,Student
+379,2026-02-16,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Other
+380,2026-02-13,Preferred Smartphone Brand,Samsung,East,36-45,Female,Other
+381,2026-03-02,Preferred Smartphone Brand,Apple,South,26-35,Male,Business
+382,2026-02-06,Preferred Smartphone Brand,Xiaomi,North,18-25,Male,Business
+383,2026-03-11,Preferred Smartphone Brand,Apple,East,18-25,Male,Student
+384,2026-02-20,Preferred Smartphone Brand,Apple,South,46+,Male,Working Professional
+385,2026-03-29,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Working Professional
+386,2026-01-29,Preferred Smartphone Brand,Xiaomi,East,46+,Male,Business
+387,2026-02-19,Preferred Smartphone Brand,Apple,South,46+,Male,Other
+388,2026-02-14,Preferred Smartphone Brand,Apple,South,26-35,Female,Business
+389,2026-01-08,Preferred Smartphone Brand,Xiaomi,North,36-45,Female,Student
+390,2026-01-05,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Business
+391,2026-03-31,Preferred Smartphone Brand,Samsung,South,26-35,Female,Student
+392,2026-01-26,Preferred Smartphone Brand,Xiaomi,West,18-25,Female,Business
+393,2026-03-13,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Business
+394,2026-01-31,Preferred Smartphone Brand,OnePlus,North,46+,Male,Student
+395,2026-03-31,Preferred Smartphone Brand,Apple,South,26-35,Female,Working Professional
+396,2026-03-04,Preferred Smartphone Brand,Xiaomi,North,18-25,Female,Student
+397,2026-03-14,Preferred Smartphone Brand,Apple,East,18-25,Male,Other
+398,2026-01-04,Preferred Smartphone Brand,OnePlus,South,26-35,Female,Student
+399,2026-01-23,Preferred Smartphone Brand,Samsung,East,18-25,Female,Working Professional
+400,2026-02-23,Preferred Smartphone Brand,Samsung,North,36-45,Male,Other
+401,2026-03-12,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+402,2026-02-02,Preferred Smartphone Brand,Apple,North,36-45,Female,Working Professional
+403,2026-03-31,Preferred Smartphone Brand,Samsung,West,26-35,Female,Working Professional
+404,2026-03-07,Preferred Smartphone Brand,Samsung,East,18-25,Female,Other
+405,2026-02-17,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Working Professional
+406,2026-01-25,Preferred Smartphone Brand,Samsung,South,46+,Male,Business
+407,2026-02-13,Preferred Smartphone Brand,Samsung,East,46+,Male,Working Professional
+408,2026-02-15,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Student
+409,2026-01-23,Preferred Smartphone Brand,Samsung,West,36-45,Male,Other
+410,2026-01-15,Preferred Smartphone Brand,Apple,East,36-45,Male,Other
+411,2026-01-21,Preferred Smartphone Brand,Samsung,East,26-35,Female,Student
+412,2026-03-09,Preferred Smartphone Brand,Apple,West,26-35,Male,Student
+413,2026-01-28,Preferred Smartphone Brand,Samsung,West,26-35,Female,Working Professional
+414,2026-01-18,Preferred Smartphone Brand,Samsung,North,46+,Female,Student
+415,2026-03-16,Preferred Smartphone Brand,Apple,West,26-35,Male,Student
+416,2026-01-31,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Student
+417,2026-02-11,Preferred Smartphone Brand,Xiaomi,West,46+,Female,Business
+418,2026-02-23,Preferred Smartphone Brand,Samsung,West,18-25,Female,Business
+419,2026-01-13,Preferred Smartphone Brand,Samsung,South,18-25,Female,Other
+420,2026-01-09,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Working Professional
+421,2026-02-11,Preferred Smartphone Brand,Xiaomi,West,18-25,Female,Business
+422,2026-02-06,Preferred Smartphone Brand,Apple,West,36-45,Female,Other
+423,2026-02-08,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Working Professional
+424,2026-02-24,Preferred Smartphone Brand,Samsung,East,18-25,Male,Other
+425,2026-02-02,Preferred Smartphone Brand,Apple,North,26-35,Female,Student
+426,2026-01-15,Preferred Smartphone Brand,Apple,East,46+,Male,Working Professional
+427,2026-03-14,Preferred Smartphone Brand,Samsung,North,18-25,Female,Student
+428,2026-01-02,Preferred Smartphone Brand,Apple,East,18-25,Female,Business
+429,2026-02-11,Preferred Smartphone Brand,Samsung,East,18-25,Male,Business
+430,2026-01-24,Preferred Smartphone Brand,Apple,East,46+,Female,Working Professional
+431,2026-02-11,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Other
+432,2026-02-05,Preferred Smartphone Brand,Apple,West,18-25,Male,Working Professional
+433,2026-02-10,Preferred Smartphone Brand,Samsung,North,18-25,Female,Working Professional
+434,2026-03-01,Preferred Smartphone Brand,OnePlus,East,46+,Male,Other
+435,2026-03-13,Preferred Smartphone Brand,OnePlus,South,46+,Male,Working Professional
+436,2026-01-03,Preferred Smartphone Brand,Apple,South,36-45,Female,Working Professional
+437,2026-03-22,Preferred Smartphone Brand,Xiaomi,East,26-35,Female,Other
+438,2026-01-22,Preferred Smartphone Brand,Samsung,West,18-25,Male,Student
+439,2026-01-31,Preferred Smartphone Brand,OnePlus,East,46+,Female,Working Professional
+440,2026-01-30,Preferred Smartphone Brand,Samsung,West,46+,Male,Other
+441,2026-01-12,Preferred Smartphone Brand,Xiaomi,East,46+,Female,Student
+442,2026-01-23,Preferred Smartphone Brand,Samsung,West,26-35,Male,Other
+443,2026-03-06,Preferred Smartphone Brand,OnePlus,North,46+,Female,Working Professional
+444,2026-03-23,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Other
+445,2026-03-17,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Other
+446,2026-01-23,Preferred Smartphone Brand,Apple,South,18-25,Male,Working Professional
+447,2026-03-14,Preferred Smartphone Brand,Samsung,East,46+,Female,Business
+448,2026-01-26,Preferred Smartphone Brand,Samsung,East,26-35,Male,Working Professional
+449,2026-02-12,Preferred Smartphone Brand,Samsung,West,18-25,Female,Working Professional
+450,2026-01-12,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Student
+451,2026-02-04,Preferred Smartphone Brand,OnePlus,South,26-35,Female,Working Professional
+452,2026-03-08,Preferred Smartphone Brand,OnePlus,West,26-35,Male,Business
+453,2026-01-21,Preferred Smartphone Brand,Apple,East,26-35,Male,Working Professional
+454,2026-03-19,Preferred Smartphone Brand,Xiaomi,West,26-35,Male,Working Professional
+455,2026-01-25,Preferred Smartphone Brand,Samsung,North,46+,Male,Working Professional
+456,2026-03-06,Preferred Smartphone Brand,Samsung,South,26-35,Male,Other
+457,2026-01-03,Preferred Smartphone Brand,Xiaomi,South,18-25,Male,Student
+458,2026-01-08,Preferred Smartphone Brand,Samsung,West,18-25,Male,Other
+459,2026-02-14,Preferred Smartphone Brand,Samsung,West,46+,Female,Other
+460,2026-01-13,Preferred Smartphone Brand,Xiaomi,West,26-35,Male,Other
+461,2026-03-04,Preferred Smartphone Brand,Samsung,North,36-45,Female,Working Professional
+462,2026-03-01,Preferred Smartphone Brand,Samsung,East,36-45,Male,Business
+463,2026-02-03,Preferred Smartphone Brand,Samsung,South,26-35,Male,Working Professional
+464,2026-01-31,Preferred Smartphone Brand,OnePlus,North,36-45,Male,Student
+465,2026-01-21,Preferred Smartphone Brand,Apple,South,26-35,Male,Business
+466,2026-03-21,Preferred Smartphone Brand,OnePlus,North,46+,Female,Business
+467,2026-02-09,Preferred Smartphone Brand,OnePlus,East,46+,Female,Student
+468,2026-02-21,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Business
+469,2026-03-04,Preferred Smartphone Brand,Samsung,North,36-45,Male,Business
+470,2026-03-27,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Student
+471,2026-02-24,Preferred Smartphone Brand,Samsung,East,18-25,Female,Working Professional
+472,2026-03-20,Preferred Smartphone Brand,Samsung,East,26-35,Female,Business
+473,2026-01-05,Preferred Smartphone Brand,Apple,North,26-35,Female,Student
+474,2026-03-26,Preferred Smartphone Brand,Apple,North,18-25,Female,Other
+475,2026-03-22,Preferred Smartphone Brand,Apple,West,36-45,Male,Student
+476,2026-02-21,Preferred Smartphone Brand,Apple,North,26-35,Female,Other
+477,2026-02-03,Preferred Smartphone Brand,Apple,West,26-35,Female,Business
+478,2026-02-21,Preferred Smartphone Brand,Xiaomi,South,18-25,Female,Student
+479,2026-03-05,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Working Professional
+480,2026-03-01,Preferred Smartphone Brand,Apple,North,26-35,Female,Working Professional
+481,2026-03-01,Preferred Smartphone Brand,OnePlus,West,36-45,Male,Working Professional
+482,2026-01-08,Preferred Smartphone Brand,Xiaomi,West,18-25,Male,Student
+483,2026-03-01,Preferred Smartphone Brand,Samsung,North,36-45,Male,Other
+484,2026-02-13,Preferred Smartphone Brand,Samsung,North,46+,Male,Other
+485,2026-03-28,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Business
+486,2026-01-24,Preferred Smartphone Brand,Apple,West,18-25,Female,Working Professional
+487,2026-01-31,Preferred Smartphone Brand,Apple,East,46+,Male,Business
+488,2026-01-07,Preferred Smartphone Brand,OnePlus,East,36-45,Female,Student
+489,2026-01-05,Preferred Smartphone Brand,OnePlus,West,46+,Female,Working Professional
+490,2026-02-07,Preferred Smartphone Brand,Apple,West,46+,Male,Business
+491,2026-01-08,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Business
+492,2026-02-19,Preferred Smartphone Brand,Apple,West,26-35,Female,Working Professional
+493,2026-02-10,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Working Professional
+494,2026-01-10,Preferred Smartphone Brand,OnePlus,West,36-45,Female,Working Professional
+495,2026-01-13,Preferred Smartphone Brand,Samsung,East,46+,Female,Other
+496,2026-01-11,Preferred Smartphone Brand,Apple,North,46+,Female,Business
+497,2026-03-14,Preferred Smartphone Brand,Samsung,East,26-35,Female,Working Professional
+498,2026-03-30,Preferred Smartphone Brand,Apple,West,26-35,Female,Student
+499,2026-02-13,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+500,2026-02-01,Preferred Smartphone Brand,Apple,East,18-25,Female,Student
+501,2026-02-16,Preferred Smartphone Brand,Apple,North,26-35,Male,Working Professional
+502,2026-01-08,Preferred Smartphone Brand,OnePlus,South,36-45,Male,Other
+503,2026-03-16,Preferred Smartphone Brand,Apple,South,36-45,Male,Working Professional
+504,2026-01-29,Preferred Smartphone Brand,OnePlus,South,18-25,Male,Business
+505,2026-02-21,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Business
+506,2026-03-29,Preferred Smartphone Brand,Apple,South,36-45,Male,Student
+507,2026-02-25,Preferred Smartphone Brand,Samsung,South,36-45,Male,Student
+508,2026-01-30,Preferred Smartphone Brand,Xiaomi,East,18-25,Female,Student
+509,2026-01-08,Preferred Smartphone Brand,Samsung,West,46+,Male,Other
+510,2026-01-05,Preferred Smartphone Brand,Xiaomi,West,46+,Male,Other
+511,2026-03-05,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Student
+512,2026-02-15,Preferred Smartphone Brand,Samsung,East,26-35,Male,Other
+513,2026-01-13,Preferred Smartphone Brand,Samsung,West,26-35,Female,Working Professional
+514,2026-02-27,Preferred Smartphone Brand,Apple,North,26-35,Female,Student
+515,2026-02-03,Preferred Smartphone Brand,OnePlus,West,36-45,Female,Business
+516,2026-03-11,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Business
+517,2026-01-04,Preferred Smartphone Brand,OnePlus,West,26-35,Male,Working Professional
+518,2026-02-06,Preferred Smartphone Brand,OnePlus,South,46+,Male,Student
+519,2026-03-15,Preferred Smartphone Brand,Samsung,West,46+,Male,Student
+520,2026-01-20,Preferred Smartphone Brand,Samsung,East,46+,Male,Working Professional
+521,2026-01-03,Preferred Smartphone Brand,Apple,West,26-35,Male,Other
+522,2026-01-04,Preferred Smartphone Brand,Apple,West,26-35,Female,Working Professional
+523,2026-01-19,Preferred Smartphone Brand,Apple,West,36-45,Male,Business
+524,2026-03-24,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+525,2026-01-31,Preferred Smartphone Brand,OnePlus,East,46+,Male,Other
+526,2026-02-24,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Other
+527,2026-02-16,Preferred Smartphone Brand,Xiaomi,West,26-35,Male,Student
+528,2026-01-17,Preferred Smartphone Brand,Samsung,West,46+,Male,Business
+529,2026-01-15,Preferred Smartphone Brand,Samsung,South,46+,Male,Business
+530,2026-01-09,Preferred Smartphone Brand,Xiaomi,North,18-25,Female,Student
+531,2026-01-10,Preferred Smartphone Brand,Apple,North,36-45,Male,Working Professional
+532,2026-03-11,Preferred Smartphone Brand,Samsung,North,36-45,Male,Business
+533,2026-02-11,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Student
+534,2026-03-05,Preferred Smartphone Brand,Apple,North,18-25,Female,Other
+535,2026-01-05,Preferred Smartphone Brand,OnePlus,South,46+,Female,Business
+536,2026-02-08,Preferred Smartphone Brand,Samsung,North,46+,Male,Other
+537,2026-03-11,Preferred Smartphone Brand,Apple,South,46+,Female,Other
+538,2026-02-26,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Student
+539,2026-01-30,Preferred Smartphone Brand,Apple,South,26-35,Female,Other
+540,2026-01-07,Preferred Smartphone Brand,Apple,West,26-35,Female,Working Professional
+541,2026-03-21,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+542,2026-03-11,Preferred Smartphone Brand,Apple,North,46+,Female,Business
+543,2026-03-25,Preferred Smartphone Brand,Samsung,East,18-25,Male,Other
+544,2026-02-19,Preferred Smartphone Brand,Samsung,East,26-35,Male,Business
+545,2026-03-23,Preferred Smartphone Brand,OnePlus,East,46+,Female,Business
+546,2026-02-17,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Other
+547,2026-01-14,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Student
+548,2026-01-03,Preferred Smartphone Brand,OnePlus,North,46+,Male,Business
+549,2026-03-30,Preferred Smartphone Brand,Xiaomi,West,18-25,Male,Student
+550,2026-02-02,Preferred Smartphone Brand,Apple,West,36-45,Female,Student
+551,2026-03-12,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Student
+552,2026-03-02,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Business
+553,2026-03-27,Preferred Smartphone Brand,Samsung,South,26-35,Female,Working Professional
+554,2026-03-06,Preferred Smartphone Brand,Samsung,North,26-35,Female,Other
+555,2026-02-26,Preferred Smartphone Brand,OnePlus,South,46+,Female,Business
+556,2026-02-08,Preferred Smartphone Brand,Samsung,West,36-45,Female,Working Professional
+557,2026-03-01,Preferred Smartphone Brand,Samsung,East,46+,Male,Business
+558,2026-02-18,Preferred Smartphone Brand,Apple,East,18-25,Female,Working Professional
+559,2026-03-09,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Other
+560,2026-03-26,Preferred Smartphone Brand,OnePlus,West,46+,Female,Business
+561,2026-02-09,Preferred Smartphone Brand,Xiaomi,South,18-25,Male,Working Professional
+562,2026-01-25,Preferred Smartphone Brand,Apple,East,46+,Female,Student
+563,2026-02-11,Preferred Smartphone Brand,Samsung,South,36-45,Female,Business
+564,2026-03-30,Preferred Smartphone Brand,Samsung,East,36-45,Male,Business
+565,2026-01-11,Preferred Smartphone Brand,Apple,South,46+,Female,Other
+566,2026-02-10,Preferred Smartphone Brand,Samsung,North,46+,Male,Student
+567,2026-02-16,Preferred Smartphone Brand,Apple,South,46+,Female,Working Professional
+568,2026-03-01,Preferred Smartphone Brand,OnePlus,West,26-35,Male,Other
+569,2026-01-03,Preferred Smartphone Brand,Samsung,East,26-35,Male,Other
+570,2026-02-02,Preferred Smartphone Brand,Samsung,East,46+,Female,Student
+571,2026-02-01,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Working Professional
+572,2026-03-11,Preferred Smartphone Brand,Xiaomi,East,46+,Male,Other
+573,2026-01-11,Preferred Smartphone Brand,Samsung,West,18-25,Male,Student
+574,2026-01-21,Preferred Smartphone Brand,OnePlus,South,46+,Female,Working Professional
+575,2026-02-28,Preferred Smartphone Brand,Apple,East,18-25,Male,Business
+576,2026-03-09,Preferred Smartphone Brand,OnePlus,South,26-35,Female,Working Professional
+577,2026-01-05,Preferred Smartphone Brand,Xiaomi,West,18-25,Male,Other
+578,2026-02-19,Preferred Smartphone Brand,Apple,West,46+,Male,Business
+579,2026-03-07,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Other
+580,2026-03-27,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Other
+581,2026-01-21,Preferred Smartphone Brand,Apple,South,26-35,Male,Student
+582,2026-02-04,Preferred Smartphone Brand,Apple,North,36-45,Male,Working Professional
+583,2026-02-27,Preferred Smartphone Brand,Samsung,East,46+,Female,Working Professional
+584,2026-01-17,Preferred Smartphone Brand,OnePlus,East,26-35,Male,Business
+585,2026-02-04,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+586,2026-02-09,Preferred Smartphone Brand,Apple,East,36-45,Female,Student
+587,2026-01-20,Preferred Smartphone Brand,Apple,West,36-45,Male,Other
+588,2026-03-04,Preferred Smartphone Brand,Apple,South,18-25,Male,Working Professional
+589,2026-01-15,Preferred Smartphone Brand,Apple,East,18-25,Male,Student
+590,2026-02-15,Preferred Smartphone Brand,OnePlus,West,46+,Male,Business
+591,2026-01-09,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Business
+592,2026-01-06,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Working Professional
+593,2026-02-15,Preferred Smartphone Brand,Samsung,West,18-25,Female,Working Professional
+594,2026-02-04,Preferred Smartphone Brand,Samsung,East,26-35,Male,Other
+595,2026-01-25,Preferred Smartphone Brand,Samsung,South,26-35,Female,Business
+596,2026-01-22,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Business
+597,2026-02-11,Preferred Smartphone Brand,OnePlus,West,46+,Male,Business
+598,2026-03-19,Preferred Smartphone Brand,OnePlus,East,46+,Male,Student
+599,2026-01-19,Preferred Smartphone Brand,Xiaomi,South,46+,Female,Student
+600,2026-03-02,Preferred Smartphone Brand,Apple,North,26-35,Male,Other
+601,2026-02-02,Preferred Smartphone Brand,Samsung,North,26-35,Male,Student
+602,2026-02-28,Preferred Smartphone Brand,OnePlus,North,46+,Male,Other
+603,2026-01-08,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Student
+604,2026-02-24,Preferred Smartphone Brand,Samsung,South,18-25,Female,Working Professional
+605,2026-01-12,Preferred Smartphone Brand,Samsung,West,26-35,Female,Student
+606,2026-01-21,Preferred Smartphone Brand,Apple,West,18-25,Male,Other
+607,2026-02-02,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Other
+608,2026-02-04,Preferred Smartphone Brand,OnePlus,West,46+,Male,Other
+609,2026-02-14,Preferred Smartphone Brand,OnePlus,West,46+,Female,Other
+610,2026-02-15,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Other
+611,2026-01-22,Preferred Smartphone Brand,Samsung,East,26-35,Female,Student
+612,2026-01-29,Preferred Smartphone Brand,Samsung,East,36-45,Female,Other
+613,2026-01-04,Preferred Smartphone Brand,Samsung,North,36-45,Female,Other
+614,2026-03-07,Preferred Smartphone Brand,Apple,East,36-45,Male,Student
+615,2026-03-13,Preferred Smartphone Brand,Samsung,South,26-35,Male,Working Professional
+616,2026-01-17,Preferred Smartphone Brand,Apple,South,26-35,Male,Other
+617,2026-03-24,Preferred Smartphone Brand,Apple,North,18-25,Male,Student
+618,2026-02-09,Preferred Smartphone Brand,Samsung,West,18-25,Female,Other
+619,2026-02-18,Preferred Smartphone Brand,Samsung,South,18-25,Female,Student
+620,2026-03-03,Preferred Smartphone Brand,OnePlus,West,46+,Male,Working Professional
+621,2026-02-08,Preferred Smartphone Brand,OnePlus,North,46+,Female,Working Professional
+622,2026-02-23,Preferred Smartphone Brand,Xiaomi,North,46+,Male,Student
+623,2026-02-10,Preferred Smartphone Brand,OnePlus,North,36-45,Male,Business
+624,2026-02-24,Preferred Smartphone Brand,Xiaomi,North,46+,Male,Working Professional
+625,2026-01-19,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+626,2026-02-09,Preferred Smartphone Brand,Samsung,West,46+,Female,Student
+627,2026-01-12,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Business
+628,2026-03-10,Preferred Smartphone Brand,Apple,East,26-35,Male,Working Professional
+629,2026-02-16,Preferred Smartphone Brand,Apple,East,46+,Female,Working Professional
+630,2026-03-07,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Working Professional
+631,2026-01-19,Preferred Smartphone Brand,Samsung,West,46+,Male,Student
+632,2026-03-17,Preferred Smartphone Brand,Apple,East,18-25,Male,Working Professional
+633,2026-03-04,Preferred Smartphone Brand,Samsung,South,26-35,Male,Business
+634,2026-03-18,Preferred Smartphone Brand,Apple,South,36-45,Female,Student
+635,2026-02-08,Preferred Smartphone Brand,Xiaomi,West,26-35,Male,Student
+636,2026-01-02,Preferred Smartphone Brand,Samsung,East,46+,Female,Other
+637,2026-01-02,Preferred Smartphone Brand,Apple,South,46+,Male,Business
+638,2026-03-06,Preferred Smartphone Brand,Apple,East,26-35,Male,Student
+639,2026-03-03,Preferred Smartphone Brand,Samsung,East,18-25,Male,Other
+640,2026-02-07,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Other
+641,2026-02-14,Preferred Smartphone Brand,Apple,North,26-35,Female,Working Professional
+642,2026-03-01,Preferred Smartphone Brand,Apple,West,36-45,Male,Other
+643,2026-02-13,Preferred Smartphone Brand,Xiaomi,East,36-45,Female,Business
+644,2026-02-17,Preferred Smartphone Brand,Apple,East,18-25,Female,Other
+645,2026-02-02,Preferred Smartphone Brand,Samsung,South,46+,Female,Student
+646,2026-01-07,Preferred Smartphone Brand,Apple,West,18-25,Male,Business
+647,2026-01-20,Preferred Smartphone Brand,Apple,South,46+,Female,Other
+648,2026-02-04,Preferred Smartphone Brand,Apple,East,36-45,Female,Business
+649,2026-02-18,Preferred Smartphone Brand,Apple,West,18-25,Female,Working Professional
+650,2026-02-17,Preferred Smartphone Brand,Apple,West,26-35,Male,Business
+651,2026-01-04,Preferred Smartphone Brand,Apple,South,18-25,Female,Other
+652,2026-03-29,Preferred Smartphone Brand,Samsung,East,18-25,Female,Working Professional
+653,2026-01-27,Preferred Smartphone Brand,Apple,East,46+,Male,Working Professional
+654,2026-02-20,Preferred Smartphone Brand,Apple,East,18-25,Male,Student
+655,2026-01-30,Preferred Smartphone Brand,Apple,South,18-25,Male,Working Professional
+656,2026-02-04,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Student
+657,2026-01-29,Preferred Smartphone Brand,Apple,East,26-35,Female,Student
+658,2026-01-22,Preferred Smartphone Brand,Samsung,North,18-25,Male,Student
+659,2026-02-03,Preferred Smartphone Brand,Apple,North,36-45,Male,Business
+660,2026-01-03,Preferred Smartphone Brand,Apple,West,18-25,Male,Working Professional
+661,2026-03-26,Preferred Smartphone Brand,Apple,West,18-25,Female,Business
+662,2026-03-09,Preferred Smartphone Brand,Apple,West,36-45,Female,Student
+663,2026-01-13,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+664,2026-01-17,Preferred Smartphone Brand,OnePlus,South,46+,Female,Student
+665,2026-01-24,Preferred Smartphone Brand,Samsung,North,36-45,Male,Other
+666,2026-01-28,Preferred Smartphone Brand,Xiaomi,North,46+,Female,Business
+667,2026-03-05,Preferred Smartphone Brand,Samsung,South,36-45,Female,Student
+668,2026-02-16,Preferred Smartphone Brand,Xiaomi,North,26-35,Male,Business
+669,2026-01-05,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Working Professional
+670,2026-01-12,Preferred Smartphone Brand,Xiaomi,East,36-45,Female,Other
+671,2026-02-21,Preferred Smartphone Brand,Xiaomi,East,36-45,Female,Other
+672,2026-03-16,Preferred Smartphone Brand,Apple,West,36-45,Male,Business
+673,2026-03-16,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Business
+674,2026-02-22,Preferred Smartphone Brand,Xiaomi,South,46+,Male,Business
+675,2026-01-04,Preferred Smartphone Brand,OnePlus,East,46+,Male,Student
+676,2026-03-13,Preferred Smartphone Brand,Xiaomi,North,18-25,Male,Student
+677,2026-03-13,Preferred Smartphone Brand,Apple,South,36-45,Male,Student
+678,2026-01-13,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Other
+679,2026-01-22,Preferred Smartphone Brand,OnePlus,East,36-45,Female,Working Professional
+680,2026-02-11,Preferred Smartphone Brand,Samsung,North,46+,Female,Working Professional
+681,2026-02-10,Preferred Smartphone Brand,Apple,West,26-35,Male,Working Professional
+682,2026-02-16,Preferred Smartphone Brand,Xiaomi,South,46+,Female,Student
+683,2026-03-12,Preferred Smartphone Brand,Apple,East,18-25,Female,Student
+684,2026-02-06,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Other
+685,2026-01-05,Preferred Smartphone Brand,OnePlus,North,36-45,Male,Other
+686,2026-02-04,Preferred Smartphone Brand,Samsung,West,36-45,Male,Working Professional
+687,2026-02-15,Preferred Smartphone Brand,Apple,West,26-35,Male,Working Professional
+688,2026-03-16,Preferred Smartphone Brand,Apple,East,26-35,Female,Student
+689,2026-02-14,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Business
+690,2026-01-16,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Working Professional
+691,2026-01-16,Preferred Smartphone Brand,Samsung,South,26-35,Female,Student
+692,2026-02-25,Preferred Smartphone Brand,Apple,West,26-35,Male,Business
+693,2026-01-08,Preferred Smartphone Brand,Apple,West,26-35,Male,Business
+694,2026-02-22,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Student
+695,2026-01-13,Preferred Smartphone Brand,Samsung,North,36-45,Male,Student
+696,2026-03-27,Preferred Smartphone Brand,Apple,East,36-45,Female,Working Professional
+697,2026-03-15,Preferred Smartphone Brand,Samsung,West,26-35,Female,Other
+698,2026-02-01,Preferred Smartphone Brand,Samsung,South,46+,Female,Other
+699,2026-02-22,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Other
+700,2026-03-18,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Business
+701,2026-01-31,Preferred Smartphone Brand,Apple,South,46+,Female,Business
+702,2026-03-16,Preferred Smartphone Brand,Apple,North,36-45,Male,Business
+703,2026-01-26,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Business
+704,2026-03-29,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Other
+705,2026-03-05,Preferred Smartphone Brand,Apple,East,18-25,Male,Business
+706,2026-01-19,Preferred Smartphone Brand,Samsung,South,46+,Female,Other
+707,2026-03-23,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Working Professional
+708,2026-02-25,Preferred Smartphone Brand,Xiaomi,North,18-25,Female,Business
+709,2026-03-31,Preferred Smartphone Brand,Samsung,West,36-45,Male,Other
+710,2026-02-24,Preferred Smartphone Brand,Apple,East,18-25,Male,Business
+711,2026-01-13,Preferred Smartphone Brand,Apple,West,46+,Male,Student
+712,2026-03-09,Preferred Smartphone Brand,OnePlus,South,18-25,Male,Other
+713,2026-03-24,Preferred Smartphone Brand,Samsung,North,26-35,Male,Student
+714,2026-02-17,Preferred Smartphone Brand,Samsung,West,18-25,Male,Business
+715,2026-01-18,Preferred Smartphone Brand,Samsung,East,46+,Male,Other
+716,2026-03-12,Preferred Smartphone Brand,OnePlus,South,18-25,Male,Other
+717,2026-01-31,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Business
+718,2026-02-23,Preferred Smartphone Brand,Xiaomi,North,46+,Male,Business
+719,2026-02-14,Preferred Smartphone Brand,Apple,North,46+,Female,Business
+720,2026-02-05,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Other
+721,2026-01-21,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Other
+722,2026-01-21,Preferred Smartphone Brand,Apple,East,18-25,Male,Student
+723,2026-02-23,Preferred Smartphone Brand,Samsung,West,36-45,Male,Working Professional
+724,2026-02-15,Preferred Smartphone Brand,Apple,South,46+,Female,Working Professional
+725,2026-03-22,Preferred Smartphone Brand,Apple,South,36-45,Male,Business
+726,2026-01-17,Preferred Smartphone Brand,Xiaomi,West,46+,Male,Business
+727,2026-01-25,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Student
+728,2026-03-25,Preferred Smartphone Brand,Samsung,West,36-45,Male,Other
+729,2026-02-27,Preferred Smartphone Brand,Xiaomi,South,18-25,Female,Business
+730,2026-02-16,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Business
+731,2026-01-25,Preferred Smartphone Brand,OnePlus,South,36-45,Female,Student
+732,2026-01-12,Preferred Smartphone Brand,Apple,East,18-25,Female,Student
+733,2026-01-07,Preferred Smartphone Brand,Xiaomi,East,18-25,Female,Business
+734,2026-01-08,Preferred Smartphone Brand,OnePlus,North,46+,Female,Student
+735,2026-03-27,Preferred Smartphone Brand,Apple,West,36-45,Male,Student
+736,2026-01-29,Preferred Smartphone Brand,Apple,West,18-25,Male,Other
+737,2026-03-28,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Student
+738,2026-01-05,Preferred Smartphone Brand,Samsung,West,26-35,Male,Business
+739,2026-02-01,Preferred Smartphone Brand,Apple,North,18-25,Male,Working Professional
+740,2026-03-12,Preferred Smartphone Brand,Apple,South,18-25,Female,Business
+741,2026-02-14,Preferred Smartphone Brand,Apple,North,18-25,Female,Other
+742,2026-03-09,Preferred Smartphone Brand,Samsung,West,36-45,Male,Student
+743,2026-02-18,Preferred Smartphone Brand,Xiaomi,South,46+,Female,Other
+744,2026-02-26,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Working Professional
+745,2026-01-05,Preferred Smartphone Brand,Samsung,North,36-45,Female,Working Professional
+746,2026-02-02,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Other
+747,2026-03-02,Preferred Smartphone Brand,Xiaomi,South,18-25,Female,Working Professional
+748,2026-03-03,Preferred Smartphone Brand,OnePlus,South,26-35,Female,Working Professional
+749,2026-01-13,Preferred Smartphone Brand,Samsung,East,26-35,Female,Student
+750,2026-01-08,Preferred Smartphone Brand,Apple,East,46+,Male,Student
+751,2026-03-16,Preferred Smartphone Brand,OnePlus,East,36-45,Female,Other
+752,2026-03-11,Preferred Smartphone Brand,Apple,West,36-45,Female,Other
+753,2026-02-25,Preferred Smartphone Brand,OnePlus,South,26-35,Male,Other
+754,2026-01-11,Preferred Smartphone Brand,Samsung,South,36-45,Male,Business
+755,2026-03-23,Preferred Smartphone Brand,Xiaomi,West,46+,Male,Student
+756,2026-02-28,Preferred Smartphone Brand,Samsung,North,36-45,Male,Student
+757,2026-03-21,Preferred Smartphone Brand,Xiaomi,East,46+,Male,Working Professional
+758,2026-01-08,Preferred Smartphone Brand,OnePlus,West,36-45,Female,Student
+759,2026-02-12,Preferred Smartphone Brand,OnePlus,East,46+,Female,Working Professional
+760,2026-03-27,Preferred Smartphone Brand,Xiaomi,West,18-25,Male,Working Professional
+761,2026-02-05,Preferred Smartphone Brand,Samsung,West,46+,Female,Business
+762,2026-02-12,Preferred Smartphone Brand,Apple,South,46+,Female,Working Professional
+763,2026-02-24,Preferred Smartphone Brand,OnePlus,East,26-35,Male,Business
+764,2026-03-08,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Student
+765,2026-02-23,Preferred Smartphone Brand,Samsung,East,26-35,Male,Student
+766,2026-02-01,Preferred Smartphone Brand,Samsung,East,18-25,Male,Other
+767,2026-01-20,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Business
+768,2026-03-31,Preferred Smartphone Brand,Samsung,South,18-25,Female,Student
+769,2026-03-25,Preferred Smartphone Brand,Samsung,South,46+,Male,Working Professional
+770,2026-01-01,Preferred Smartphone Brand,Apple,North,46+,Female,Business
+771,2026-01-10,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Working Professional
+772,2026-03-06,Preferred Smartphone Brand,Apple,South,46+,Male,Student
+773,2026-03-09,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+774,2026-03-17,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Business
+775,2026-02-16,Preferred Smartphone Brand,Xiaomi,South,46+,Male,Student
+776,2026-03-19,Preferred Smartphone Brand,OnePlus,South,46+,Male,Working Professional
+777,2026-01-08,Preferred Smartphone Brand,Apple,East,46+,Male,Working Professional
+778,2026-01-28,Preferred Smartphone Brand,Samsung,East,46+,Female,Business
+779,2026-02-06,Preferred Smartphone Brand,Samsung,East,46+,Male,Other
+780,2026-03-04,Preferred Smartphone Brand,Apple,South,18-25,Female,Other
+781,2026-01-04,Preferred Smartphone Brand,Apple,North,18-25,Male,Student
+782,2026-01-23,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Working Professional
+783,2026-02-10,Preferred Smartphone Brand,Apple,North,46+,Female,Working Professional
+784,2026-02-26,Preferred Smartphone Brand,Xiaomi,East,36-45,Female,Student
+785,2026-03-02,Preferred Smartphone Brand,Samsung,West,36-45,Female,Business
+786,2026-03-09,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Other
+787,2026-02-10,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Working Professional
+788,2026-03-03,Preferred Smartphone Brand,OnePlus,West,36-45,Male,Working Professional
+789,2026-02-26,Preferred Smartphone Brand,Samsung,East,36-45,Female,Other
+790,2026-02-08,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+791,2026-03-13,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Working Professional
+792,2026-03-15,Preferred Smartphone Brand,Apple,South,36-45,Female,Student
+793,2026-03-22,Preferred Smartphone Brand,Xiaomi,South,26-35,Male,Student
+794,2026-03-09,Preferred Smartphone Brand,Xiaomi,East,18-25,Male,Student
+795,2026-03-06,Preferred Smartphone Brand,OnePlus,East,46+,Male,Student
+796,2026-03-29,Preferred Smartphone Brand,Apple,East,46+,Male,Business
+797,2026-03-11,Preferred Smartphone Brand,Xiaomi,East,26-35,Male,Student
+798,2026-02-26,Preferred Smartphone Brand,Apple,East,18-25,Male,Student
+799,2026-01-13,Preferred Smartphone Brand,Apple,West,46+,Male,Business
+800,2026-03-22,Preferred Smartphone Brand,OnePlus,West,46+,Male,Student
+801,2026-02-24,Preferred Smartphone Brand,Samsung,North,36-45,Female,Business
+802,2026-02-01,Preferred Smartphone Brand,Samsung,West,26-35,Male,Business
+803,2026-02-12,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Student
+804,2026-01-14,Preferred Smartphone Brand,OnePlus,East,46+,Female,Business
+805,2026-01-29,Preferred Smartphone Brand,OnePlus,North,18-25,Male,Other
+806,2026-03-24,Preferred Smartphone Brand,Samsung,North,36-45,Female,Working Professional
+807,2026-01-13,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Other
+808,2026-03-21,Preferred Smartphone Brand,Apple,South,18-25,Female,Business
+809,2026-03-09,Preferred Smartphone Brand,Samsung,South,46+,Female,Business
+810,2026-02-26,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Business
+811,2026-03-08,Preferred Smartphone Brand,Xiaomi,East,36-45,Male,Working Professional
+812,2026-03-21,Preferred Smartphone Brand,Apple,North,18-25,Female,Working Professional
+813,2026-02-22,Preferred Smartphone Brand,Apple,East,46+,Male,Working Professional
+814,2026-01-05,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Other
+815,2026-02-28,Preferred Smartphone Brand,Samsung,South,46+,Male,Business
+816,2026-03-27,Preferred Smartphone Brand,Apple,South,26-35,Male,Business
+817,2026-03-09,Preferred Smartphone Brand,Xiaomi,West,26-35,Male,Business
+818,2026-03-28,Preferred Smartphone Brand,Apple,East,46+,Female,Student
+819,2026-01-20,Preferred Smartphone Brand,Apple,South,36-45,Female,Student
+820,2026-02-26,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+821,2026-03-07,Preferred Smartphone Brand,Xiaomi,North,46+,Female,Student
+822,2026-03-10,Preferred Smartphone Brand,Apple,West,18-25,Male,Business
+823,2026-02-18,Preferred Smartphone Brand,Samsung,East,36-45,Female,Working Professional
+824,2026-03-30,Preferred Smartphone Brand,OnePlus,South,46+,Female,Working Professional
+825,2026-02-07,Preferred Smartphone Brand,Xiaomi,East,36-45,Male,Business
+826,2026-01-29,Preferred Smartphone Brand,Xiaomi,West,36-45,Male,Working Professional
+827,2026-01-20,Preferred Smartphone Brand,Samsung,West,36-45,Male,Working Professional
+828,2026-01-30,Preferred Smartphone Brand,Samsung,South,36-45,Female,Business
+829,2026-01-27,Preferred Smartphone Brand,OnePlus,North,46+,Female,Working Professional
+830,2026-02-28,Preferred Smartphone Brand,Apple,West,26-35,Male,Other
+831,2026-03-06,Preferred Smartphone Brand,Apple,North,26-35,Male,Business
+832,2026-02-28,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Other
+833,2026-01-22,Preferred Smartphone Brand,Samsung,South,18-25,Male,Other
+834,2026-03-06,Preferred Smartphone Brand,Apple,West,36-45,Male,Student
+835,2026-02-05,Preferred Smartphone Brand,Xiaomi,South,46+,Male,Student
+836,2026-02-15,Preferred Smartphone Brand,Apple,West,26-35,Female,Working Professional
+837,2026-01-17,Preferred Smartphone Brand,Samsung,East,26-35,Female,Business
+838,2026-03-26,Preferred Smartphone Brand,Xiaomi,West,36-45,Male,Other
+839,2026-03-14,Preferred Smartphone Brand,Samsung,East,46+,Female,Student
+840,2026-02-12,Preferred Smartphone Brand,Samsung,South,26-35,Female,Student
+841,2026-02-09,Preferred Smartphone Brand,OnePlus,North,36-45,Male,Other
+842,2026-02-21,Preferred Smartphone Brand,Apple,East,18-25,Male,Working Professional
+843,2026-03-10,Preferred Smartphone Brand,Apple,South,46+,Male,Student
+844,2026-02-19,Preferred Smartphone Brand,OnePlus,South,18-25,Male,Other
+845,2026-03-23,Preferred Smartphone Brand,Samsung,East,26-35,Female,Working Professional
+846,2026-01-19,Preferred Smartphone Brand,Samsung,East,18-25,Female,Working Professional
+847,2026-01-03,Preferred Smartphone Brand,Samsung,North,36-45,Female,Business
+848,2026-01-08,Preferred Smartphone Brand,Apple,South,18-25,Male,Student
+849,2026-01-06,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Other
+850,2026-02-23,Preferred Smartphone Brand,Xiaomi,South,46+,Male,Student
+851,2026-01-02,Preferred Smartphone Brand,Samsung,East,36-45,Female,Working Professional
+852,2026-02-09,Preferred Smartphone Brand,Samsung,West,36-45,Male,Business
+853,2026-01-18,Preferred Smartphone Brand,OnePlus,South,46+,Male,Working Professional
+854,2026-02-26,Preferred Smartphone Brand,Apple,South,46+,Male,Student
+855,2026-02-23,Preferred Smartphone Brand,Apple,West,36-45,Male,Business
+856,2026-01-03,Preferred Smartphone Brand,Samsung,South,18-25,Male,Working Professional
+857,2026-02-07,Preferred Smartphone Brand,Apple,North,18-25,Male,Working Professional
+858,2026-01-21,Preferred Smartphone Brand,OnePlus,East,18-25,Male,Other
+859,2026-03-24,Preferred Smartphone Brand,Apple,North,18-25,Female,Other
+860,2026-03-01,Preferred Smartphone Brand,Samsung,South,36-45,Male,Student
+861,2026-03-02,Preferred Smartphone Brand,Samsung,West,46+,Male,Student
+862,2026-02-24,Preferred Smartphone Brand,Apple,East,46+,Male,Other
+863,2026-02-18,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+864,2026-03-26,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Business
+865,2026-02-08,Preferred Smartphone Brand,Apple,South,18-25,Female,Business
+866,2026-03-22,Preferred Smartphone Brand,Apple,West,36-45,Female,Student
+867,2026-03-27,Preferred Smartphone Brand,Apple,East,18-25,Male,Student
+868,2026-02-01,Preferred Smartphone Brand,OnePlus,East,46+,Male,Student
+869,2026-01-17,Preferred Smartphone Brand,OnePlus,North,26-35,Male,Working Professional
+870,2026-01-18,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+871,2026-02-01,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Business
+872,2026-02-05,Preferred Smartphone Brand,Apple,South,46+,Male,Working Professional
+873,2026-02-08,Preferred Smartphone Brand,Apple,South,36-45,Male,Working Professional
+874,2026-01-15,Preferred Smartphone Brand,OnePlus,West,46+,Male,Student
+875,2026-01-09,Preferred Smartphone Brand,Samsung,South,18-25,Male,Business
+876,2026-03-15,Preferred Smartphone Brand,Samsung,South,18-25,Male,Working Professional
+877,2026-01-13,Preferred Smartphone Brand,Xiaomi,South,18-25,Female,Business
+878,2026-03-18,Preferred Smartphone Brand,OnePlus,North,46+,Male,Student
+879,2026-02-08,Preferred Smartphone Brand,Apple,South,18-25,Male,Student
+880,2026-03-10,Preferred Smartphone Brand,OnePlus,East,36-45,Female,Student
+881,2026-02-22,Preferred Smartphone Brand,OnePlus,South,18-25,Male,Student
+882,2026-01-03,Preferred Smartphone Brand,Samsung,North,36-45,Female,Working Professional
+883,2026-01-16,Preferred Smartphone Brand,Apple,West,18-25,Female,Other
+884,2026-03-06,Preferred Smartphone Brand,Samsung,South,46+,Male,Business
+885,2026-02-20,Preferred Smartphone Brand,Apple,East,26-35,Male,Business
+886,2026-01-19,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Business
+887,2026-02-22,Preferred Smartphone Brand,Samsung,North,46+,Female,Business
+888,2026-02-17,Preferred Smartphone Brand,Apple,West,26-35,Female,Other
+889,2026-02-26,Preferred Smartphone Brand,OnePlus,East,46+,Female,Student
+890,2026-02-18,Preferred Smartphone Brand,Apple,South,18-25,Male,Working Professional
+891,2026-03-20,Preferred Smartphone Brand,Apple,North,36-45,Female,Student
+892,2026-03-08,Preferred Smartphone Brand,Apple,South,26-35,Female,Other
+893,2026-02-28,Preferred Smartphone Brand,OnePlus,West,36-45,Female,Other
+894,2026-03-16,Preferred Smartphone Brand,OnePlus,East,46+,Male,Working Professional
+895,2026-01-02,Preferred Smartphone Brand,OnePlus,North,18-25,Female,Business
+896,2026-03-02,Preferred Smartphone Brand,Apple,West,18-25,Female,Other
+897,2026-03-14,Preferred Smartphone Brand,Samsung,North,46+,Male,Working Professional
+898,2026-02-08,Preferred Smartphone Brand,OnePlus,West,18-25,Male,Student
+899,2026-03-24,Preferred Smartphone Brand,Samsung,North,36-45,Male,Other
+900,2026-01-09,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+901,2026-01-16,Preferred Smartphone Brand,OnePlus,East,18-25,Female,Working Professional
+902,2026-02-05,Preferred Smartphone Brand,Xiaomi,North,26-35,Female,Working Professional
+903,2026-03-17,Preferred Smartphone Brand,Samsung,North,36-45,Female,Other
+904,2026-01-08,Preferred Smartphone Brand,Samsung,North,46+,Male,Business
+905,2026-01-02,Preferred Smartphone Brand,Samsung,West,26-35,Female,Business
+906,2026-03-20,Preferred Smartphone Brand,Samsung,South,26-35,Female,Other
+907,2026-03-31,Preferred Smartphone Brand,Samsung,South,46+,Male,Other
+908,2026-03-03,Preferred Smartphone Brand,OnePlus,East,36-45,Female,Business
+909,2026-03-02,Preferred Smartphone Brand,Apple,North,46+,Female,Student
+910,2026-01-13,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Business
+911,2026-02-22,Preferred Smartphone Brand,OnePlus,West,46+,Male,Business
+912,2026-03-11,Preferred Smartphone Brand,OnePlus,South,18-25,Female,Other
+913,2026-02-02,Preferred Smartphone Brand,Samsung,North,18-25,Male,Working Professional
+914,2026-03-11,Preferred Smartphone Brand,Samsung,West,36-45,Male,Student
+915,2026-03-01,Preferred Smartphone Brand,Apple,South,46+,Female,Student
+916,2026-02-25,Preferred Smartphone Brand,Apple,West,46+,Male,Student
+917,2026-03-12,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Other
+918,2026-03-16,Preferred Smartphone Brand,OnePlus,North,46+,Female,Other
+919,2026-01-27,Preferred Smartphone Brand,Xiaomi,East,18-25,Male,Business
+920,2026-03-02,Preferred Smartphone Brand,Xiaomi,North,36-45,Male,Business
+921,2026-01-15,Preferred Smartphone Brand,Apple,North,18-25,Male,Other
+922,2026-03-16,Preferred Smartphone Brand,Samsung,East,26-35,Male,Working Professional
+923,2026-02-17,Preferred Smartphone Brand,Apple,South,26-35,Male,Working Professional
+924,2026-01-24,Preferred Smartphone Brand,Samsung,West,46+,Female,Business
+925,2026-03-20,Preferred Smartphone Brand,Samsung,South,36-45,Male,Other
+926,2026-03-10,Preferred Smartphone Brand,Xiaomi,South,36-45,Male,Other
+927,2026-03-02,Preferred Smartphone Brand,Samsung,East,36-45,Female,Working Professional
+928,2026-03-02,Preferred Smartphone Brand,Samsung,West,46+,Male,Business
+929,2026-01-24,Preferred Smartphone Brand,Samsung,South,36-45,Female,Student
+930,2026-03-04,Preferred Smartphone Brand,Apple,East,18-25,Female,Working Professional
+931,2026-01-04,Preferred Smartphone Brand,Xiaomi,South,46+,Female,Student
+932,2026-01-14,Preferred Smartphone Brand,Apple,East,18-25,Female,Business
+933,2026-02-24,Preferred Smartphone Brand,Xiaomi,West,36-45,Male,Student
+934,2026-02-13,Preferred Smartphone Brand,Samsung,North,36-45,Male,Student
+935,2026-02-23,Preferred Smartphone Brand,Apple,East,18-25,Female,Business
+936,2026-01-04,Preferred Smartphone Brand,Samsung,West,46+,Female,Working Professional
+937,2026-02-16,Preferred Smartphone Brand,Samsung,South,26-35,Female,Other
+938,2026-02-19,Preferred Smartphone Brand,OnePlus,East,36-45,Male,Business
+939,2026-01-12,Preferred Smartphone Brand,Samsung,West,26-35,Female,Business
+940,2026-01-28,Preferred Smartphone Brand,Samsung,South,18-25,Male,Working Professional
+941,2026-02-06,Preferred Smartphone Brand,OnePlus,South,46+,Female,Working Professional
+942,2026-03-16,Preferred Smartphone Brand,Samsung,West,36-45,Female,Other
+943,2026-01-08,Preferred Smartphone Brand,Apple,South,26-35,Male,Other
+944,2026-03-25,Preferred Smartphone Brand,Xiaomi,West,26-35,Female,Business
+945,2026-01-07,Preferred Smartphone Brand,Samsung,East,36-45,Female,Other
+946,2026-01-27,Preferred Smartphone Brand,OnePlus,West,46+,Male,Student
+947,2026-02-04,Preferred Smartphone Brand,Apple,North,26-35,Male,Business
+948,2026-02-26,Preferred Smartphone Brand,Samsung,East,18-25,Female,Working Professional
+949,2026-01-20,Preferred Smartphone Brand,Apple,North,36-45,Female,Student
+950,2026-01-17,Preferred Smartphone Brand,Xiaomi,South,18-25,Male,Working Professional
+951,2026-01-11,Preferred Smartphone Brand,OnePlus,East,46+,Female,Working Professional
+952,2026-01-20,Preferred Smartphone Brand,Apple,West,26-35,Female,Other
+953,2026-01-15,Preferred Smartphone Brand,Apple,East,18-25,Female,Student
+954,2026-02-09,Preferred Smartphone Brand,Apple,West,46+,Male,Other
+955,2026-01-11,Preferred Smartphone Brand,Apple,West,18-25,Female,Other
+956,2026-03-01,Preferred Smartphone Brand,OnePlus,West,18-25,Female,Student
+957,2026-01-13,Preferred Smartphone Brand,Apple,North,26-35,Female,Other
+958,2026-03-23,Preferred Smartphone Brand,Apple,East,46+,Male,Other
+959,2026-03-28,Preferred Smartphone Brand,Apple,East,36-45,Male,Other
+960,2026-02-15,Preferred Smartphone Brand,OnePlus,North,46+,Female,Working Professional
+961,2026-02-09,Preferred Smartphone Brand,Apple,West,36-45,Female,Other
+962,2026-03-01,Preferred Smartphone Brand,Samsung,North,18-25,Male,Business
+963,2026-02-26,Preferred Smartphone Brand,OnePlus,North,46+,Female,Student
+964,2026-01-22,Preferred Smartphone Brand,OnePlus,West,26-35,Male,Other
+965,2026-02-09,Preferred Smartphone Brand,OnePlus,South,36-45,Male,Business
+966,2026-02-08,Preferred Smartphone Brand,Samsung,West,18-25,Female,Other
+967,2026-03-31,Preferred Smartphone Brand,Apple,South,18-25,Female,Student
+968,2026-03-04,Preferred Smartphone Brand,Samsung,South,36-45,Female,Business
+969,2026-02-17,Preferred Smartphone Brand,Samsung,East,36-45,Female,Business
+970,2026-03-30,Preferred Smartphone Brand,Samsung,West,18-25,Male,Student
+971,2026-01-06,Preferred Smartphone Brand,Samsung,North,46+,Female,Working Professional
+972,2026-02-23,Preferred Smartphone Brand,Apple,East,46+,Male,Student
+973,2026-02-01,Preferred Smartphone Brand,Apple,East,26-35,Female,Other
+974,2026-02-22,Preferred Smartphone Brand,Apple,West,36-45,Male,Working Professional
+975,2026-03-21,Preferred Smartphone Brand,Apple,North,26-35,Female,Business
+976,2026-03-13,Preferred Smartphone Brand,Samsung,South,26-35,Female,Business
+977,2026-01-10,Preferred Smartphone Brand,Samsung,East,46+,Male,Business
+978,2026-01-31,Preferred Smartphone Brand,Samsung,North,26-35,Female,Student
+979,2026-02-10,Preferred Smartphone Brand,Apple,North,26-35,Female,Business
+980,2026-01-22,Preferred Smartphone Brand,OnePlus,North,36-45,Female,Working Professional
+981,2026-02-18,Preferred Smartphone Brand,Samsung,North,18-25,Female,Other
+982,2026-01-01,Preferred Smartphone Brand,Samsung,North,46+,Female,Other
+983,2026-01-23,Preferred Smartphone Brand,Apple,West,36-45,Female,Business
+984,2026-02-28,Preferred Smartphone Brand,Samsung,North,18-25,Female,Student
+985,2026-03-02,Preferred Smartphone Brand,Apple,South,26-35,Female,Business
+986,2026-01-17,Preferred Smartphone Brand,OnePlus,North,46+,Female,Student
+987,2026-03-23,Preferred Smartphone Brand,Apple,North,26-35,Male,Other
+988,2026-02-24,Preferred Smartphone Brand,Samsung,East,46+,Male,Student
+989,2026-02-21,Preferred Smartphone Brand,Samsung,East,18-25,Male,Other
+990,2026-02-21,Preferred Smartphone Brand,Apple,North,46+,Male,Working Professional
+991,2026-01-01,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Student
+992,2026-02-01,Preferred Smartphone Brand,Apple,North,18-25,Female,Student
+993,2026-02-26,Preferred Smartphone Brand,Apple,East,26-35,Female,Student
+994,2026-02-11,Preferred Smartphone Brand,Samsung,East,36-45,Male,Business
+995,2026-01-17,Preferred Smartphone Brand,Apple,South,18-25,Male,Student
+996,2026-02-09,Preferred Smartphone Brand,Xiaomi,South,26-35,Female,Working Professional
+997,2026-02-06,Preferred Smartphone Brand,OnePlus,East,26-35,Female,Student
+998,2026-02-18,Preferred Smartphone Brand,Apple,East,46+,Male,Student
+999,2026-03-07,Preferred Smartphone Brand,OnePlus,East,36-45,Female,Business
+1000,2026-01-17,Preferred Smartphone Brand,OnePlus,West,26-35,Female,Working Professional
